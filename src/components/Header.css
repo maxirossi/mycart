@@ -1,0 +1,13 @@
+.app-header{
+    min-height:270px;
+    background-color: rgb(217, 217, 217);
+}
+.info-header{
+
+}
+.filtros{
+    margin-top : 30px;
+}
+.btn-filtro{
+    margin-left : 10px;
+}
